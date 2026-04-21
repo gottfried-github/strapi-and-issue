@@ -26,7 +26,7 @@ this works as intended.
 
 # Project snapshot
 
-I've created a backup, containing the data and configs. Here it is: `./backups/2026-03-19_01.tar`.
+I've created a backup, containing the data and configs. [Here](./backups/2026-04-21_01.tar) it is.
 
 For restoring this snapshot, see [Importing the backup file](#importing-the-backup-file) below.
 
